@@ -1,2 +1,77 @@
-# autonomous-mobile-robot-navigation-simulation
-Simulation of autonomous mobile robot navigation using A* path planning and Pure Pursuit control in a 2D obstacle environment. Includes differential drive kinematics, trajectory tracking, performance metrics, and visualization of robot motion, efficiency, and tracking accuracy using Python.
+
+# 🚀 Simulation of Autonomous Mobile Robot Navigation
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Algorithm](https://img.shields.io/badge/Algorithm-A*%20Search-green)
+![Control](https://img.shields.io/badge/Control-Pure%20Pursuit-orange)
+![Simulation](https://img.shields.io/badge/Type-Robotics%20Simulation-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-Open%20Source-lightgrey)
+
+![GitHub stars](https://img.shields.io/github/stars/Dhruba-2026/autonomous-mobile-robot-navigation-simulation)
+![GitHub forks](https://img.shields.io/github/forks/Dhruba-2026/autonomous-mobile-robot-navigation-simulation)
+![GitHub issues](https://img.shields.io/github/issues/Dhruba-2026/autonomous-mobile-robot-navigation-simulation)
+
+## 📌 Overview
+This project presents a simulation of an autonomous mobile robot navigating in a 2D obstacle environment using Python. It integrates path planning, motion modeling, and control strategies to enable the robot to move from a start position to a goal position efficiently and safely.
+
+---
+
+## 🎯 Objectives
+- Implement optimal path planning using the A* algorithm  
+- Model a differential drive mobile robot  
+- Apply Pure Pursuit controller for trajectory tracking  
+- Perform obstacle avoidance in a grid-based environment  
+- Evaluate system performance using key metrics  
+
+---
+
+## ⚙️ Features
+- ✅ A* Path Planning Algorithm  
+- ✅ Differential Drive Kinematics  
+- ✅ Pure Pursuit Tracking Controller  
+- ✅ Obstacle Avoidance using Grid Map  
+- ✅ Full Simulation Visualization  
+- ✅ Performance Metrics Calculation  
+
+---
+
+## 📊 Performance Metrics
+The following metrics are evaluated:
+
+- Path Length  
+- Travel Time  
+- Tracking Error  
+- Computational Time  
+- Navigation Efficiency  
+
+---
+
+## 📈 Generated Plots
+The simulation produces the following plots:
+
+- Robot Position vs Time  
+- Heading Angle vs Time  
+- Tracking Error vs Time  
+- Robot Speed vs Time  
+
+---
+
+## 🧠 Methodology
+1. Create a 2D grid environment with obstacles  
+2. Use A* algorithm to compute optimal path  
+3. Model robot using differential drive equations  
+4. Apply Pure Pursuit controller for path tracking  
+5. Simulate robot movement step-by-step  
+6. Evaluate performance metrics and generate plots  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- NumPy  
+- Matplotlib  
+
+---
+
+## 📂 Project Structure
