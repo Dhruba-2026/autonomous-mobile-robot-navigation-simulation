@@ -32,7 +32,17 @@ This project presents a simulation of an autonomous mobile robot navigating in a
 - ✅ Pure Pursuit Tracking Controller  
 - ✅ Obstacle Avoidance using Grid Map  
 - ✅ Full Simulation Visualization  
-- ✅ Performance Metrics Calculation  
+- ✅ Performance Metrics Calculation
+
+---
+
+## 📸 Simulation Preview
+
+![Simulation](Autonomous%20Mobile%20Robot%20Navigation%20Simulation.PNG)
+![Heading Angle](Heading%20Angle%20vs%20Time.PNG)
+![Robot Position](Robot%20Position%20vs%20Time.PNG)
+![Robot Speed](Robot%20Speed%20vs%20Time.PNG)
+![Tracking Error](Tracking%20Error%20vs%20Time.PNG)
 
 ---
 
