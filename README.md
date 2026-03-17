@@ -75,3 +75,44 @@ The simulation produces the following plots:
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ▶️ How to Run
+1. Open the notebook in Google Colab or Jupyter Notebook  
+2. Run all cells sequentially  
+3. Observe the simulation and generated plots  
+
+---
+
+## 📌 Results
+- Successfully generated optimal path using A*  
+- Robot followed path smoothly using Pure Pursuit  
+- Low tracking error observed  
+- Efficient navigation achieved in obstacle environment  
+
+---
+
+## 🔮 Future Scope
+- Implementation on real robot hardware  
+- Integration with ROS and Gazebo  
+- Use of SLAM for real-time mapping  
+- Dynamic obstacle avoidance  
+- Advanced algorithms like RRT, RRT*  
+- AI-based navigation using reinforcement learning  
+
+---
+
+## 👨‍💻 Author
+**Dhrubajyoti Bhattacharjee**  
+B.Tech in Mechanical Engineering  
+
+---
+
+## ⭐ Acknowledgment
+This project is developed as a self-initiated study to explore concepts in mobile robotics, path planning, and autonomous navigation.
+
+---
+
+## 📎 License
+This project is open-source and available for educational purposes.
