@@ -88,6 +88,12 @@ The simulation produces the following plots:
 
 ---
 
+## 📄 Project Notebook
+
+👉 [Open the Jupyter Notebook](Autonomous_Mobile_Robot_Navigation_Simulation.01.ipynb)
+
+---
+
 ## ▶️ How to Run
 1. Open the notebook in Google Colab or Jupyter Notebook  
 2. Run all cells sequentially  
